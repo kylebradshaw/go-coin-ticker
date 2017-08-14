@@ -3,7 +3,7 @@ package coin_ticker
 import (
 	"encoding/json"
 	"io/ioutil"
-	"net/http"
+	"net/http" //?
 )
 
 type TickersPipeline interface {
